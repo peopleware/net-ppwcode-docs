@@ -13,6 +13,10 @@ Development of these PPWCode .NET libraries is done in the open, on https://gith
 
 Builds of the libraries, both stable and pre-release builds, are published as https://www.nuget.org[NuGet] packages and are available in the https://www.nuget.org/packages[NuGet Gallery].  Published packages include the assembly itself and both `pdb` and `xml` files, for debugging symbols and documentation respectively.
 
+We believe in _Design By Contract_ and defensive code.  A lot of the PPWCode libraries contain annotations or statements to express pre-conditions, post-conditions, and invariants.  This is done using the `JetBrains.Annotations` package (annotations taken into account by the static analyzer in JetBrains Rider and ReSharper), the standard C# nullability annotations, nullable reference types, and the `PPWCode.Vernacular.Contracts.I` package (design-by-contract inspired `assert`-like statements).
+
+Unit tests are added to verify code correctness.
+
 
 == License and Copyright
 
