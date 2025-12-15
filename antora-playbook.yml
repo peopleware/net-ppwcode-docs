@@ -1,5 +1,5 @@
 site:
-  title: Docs Site
+  title: Documentation
   start_page: ppwcode-net::index.adoc
 content:
   sources:

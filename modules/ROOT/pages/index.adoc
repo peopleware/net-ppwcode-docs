@@ -9,14 +9,14 @@ PPWCode is a project by http://www.peopleware.be[PeopleWare].
 
 PPWCode .NET is the subset of PPWCode that is targeting https://dotnet.microsoft.com/en-us[.NET]. It consists of several libraries written in C# that are useful across custom software projects developed by PeopleWare.
 
-Development of these PPWCode .NET libraries is done in the open, on https://github.com/peopleware[GitHub PeopleWare]. The source code is released as open source under the http://www.apache.org/licenses/LICENSE-2.0[Apache License, Version 2.0].
+Development of these PPWCode .NET libraries is done in the open, on https://github.com/peopleware[GitHub]. The source code is released as open source under the http://www.apache.org/licenses/LICENSE-2.0[Apache License, Version 2.0].
 
 Builds of the libraries, both stable and pre-release builds, are published as https://www.nuget.org[NuGet] packages and are available in the https://www.nuget.org/packages[NuGet Gallery].  Published packages include the assembly itself and both `pdb` and `xml` files, for debugging symbols and documentation respectively.
 
 
 == License and Copyright
 
-Copyright 2008–2025 by [PeopleWare].
+Copyright 2008–2025 by PeopleWare.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
