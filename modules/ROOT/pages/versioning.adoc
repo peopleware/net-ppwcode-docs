@@ -1,0 +1,17 @@
+= PPWCode .NET versioning
+
+Most of the PPWCode libraries use versioning on two levels.  The first level represents a _generation_, or _Mark_, of the library, and this is expressed using a roman numeral that is part of the library name and its namespace.  The second level of versioning is the actual version of the library itself and its https://www.nuget.org[NuGet] package.  This version follows semantic versioning (see https://semver.org[Semantic Versioning 2.0.0]).
+
+
+== Library generation: roman numeral
+
+The first level of versioning is done to make it easier to completely redesign the library at some point in the future.  When a complete redesign of the library is done, a new generation, or Mark, of the library is created.
+
+Given that the new generation of the library has a new package name and namespace, this is essentially a completely new package.
+
+This is done intentionally, since it makes it possible to incrementally upgrade from an older generation of the library to a newer generation: a project can take dependencies on both the old and new generation and incrementally migrate its code to the new generation.
+
+
+== Library version: semantic version number
+
+The second level version is the actual version of a library, and for this version we follow semantic versioning.  The major version is bumped when introducing changes that are not backwards compatible.  The minor version is bumped for changes that are backwards compatible.  Finally, the patch version is updated for bug fixes.
