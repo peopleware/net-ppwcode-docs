@@ -16,3 +16,4 @@ ui:
 antora:
   extensions:
     - require: '@antora/lunr-extension'
+      index_by_heading: true
