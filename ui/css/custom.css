@@ -17,3 +17,11 @@ pre,
   font-family: 'JetBrains Mono', monospace;
   font-size: 0.85em; /* Slightly smaller than default */
 }
+
+.toc.sidebar {
+  flex-basis: 16.5rem; /* Default is 15rem */
+}
+
+.doc {
+  max-width: 85rem; /* Default is 75rem */
+}
