@@ -15,4 +15,4 @@ ui:
   supplemental_files: ./ui
 antora:
   extensions:
-    - '@antora/lunr-extension'
+    - require: '@antora/lunr-extension'
