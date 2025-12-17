@@ -1,5 +1,5 @@
 site:
-  title: PPWCode .NET Docs (under construction)
+  title: PPWCode .NET Docs
   start_page: ppwcode-net::index.adoc
 content:
   sources:
