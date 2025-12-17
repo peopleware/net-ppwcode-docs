@@ -12,6 +12,8 @@ content:
 ui:
   bundle:
     url: https://github.com/peopleware/net-ppwcode-docs-ui/releases/download/0.0.3/ui-bundle.zip
+    # for local tests: use a file reference
+    # url: '../docs-ui/build/ui-bundle.zip'
   supplemental_files: ./ui
 antora:
   extensions:
