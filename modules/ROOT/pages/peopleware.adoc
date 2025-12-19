@@ -1,0 +1,6 @@
+= PeopleWare
+
+image::peopleware-logo.png["PeopleWare, We Make Your Software",link=https://www.peopleware.be,window=_blank]
+
+[.text-center]
+The PPWCode libraries are created in the context of software projects built by https://www.peopleware.be[PeopleWare^].
