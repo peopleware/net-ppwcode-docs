@@ -13,7 +13,7 @@ ui:
   bundle:
     # for local tests: use a file reference
     # url: '../docs-ui/build/ui-bundle.zip'
-    url: https://github.com/peopleware/net-ppwcode-docs-ui/releases/download/0.0.7/ui-bundle.zip
+    url: https://github.com/peopleware/net-ppwcode-docs-ui/releases/download/0.0.8/ui-bundle.zip
   supplemental_files: ./ui
 antora:
   extensions:
