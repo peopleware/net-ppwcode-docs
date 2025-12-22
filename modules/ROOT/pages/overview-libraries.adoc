@@ -1,3 +1,4 @@
 = PPWCode .NET libraries
 
-TBD: overview of all PPWCode .NET libraries with short description.
+`PPWCode.Vernacular.Contracts.I`::
+Helper library to write design-by-contract code.
