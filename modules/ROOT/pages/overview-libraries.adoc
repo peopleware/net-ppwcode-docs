@@ -2,3 +2,6 @@
 
 `PPWCode.Vernacular.Contracts.I`::
 Helper library to write design-by-contract code.
+
+`PPWCode.Vernacular.Exceptions.IV`::
+Library that defines exception base types.
