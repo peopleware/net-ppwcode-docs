@@ -2,6 +2,9 @@ site:
   title: PPWCode .NET Docs
   start_page: ppwcode-net::index.adoc
 content:
+  # disable edit url for now
+  # don't want inline editing pages
+  edit_url: '~'
   sources:
     - url: .
       branches: HEAD
