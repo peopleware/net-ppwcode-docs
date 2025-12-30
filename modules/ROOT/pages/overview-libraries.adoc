@@ -1,7 +1,14 @@
 = PPWCode .NET libraries
 
 `PPWCode.Vernacular.Contracts.I`::
-Helper library to write design-by-contract code.
+- Helper library to write design-by-contract code.
+- Support for .NET full framework and recent .NET SDKs.
 
 `PPWCode.Vernacular.Exceptions.IV`::
-Library that defines exception base types.
+- Library with base exception types.
+- Support for .NET full framework and recent .NET SDKs.
+
+`PPWCode.Vernacular.Exceptions.V`::
+- Library with base exception types.
+- Support for recent .NET SDKs.
+

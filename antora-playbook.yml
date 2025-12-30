@@ -16,6 +16,10 @@ content:
       branches:
         - IV/next
       start_path: docs
+    - url: https://github.com/peopleware/net-ppwcode-vernacular-exceptions
+      branches:
+        - V/next
+      start_path: docs
 ui:
   bundle:
     # for local tests: use a file reference
