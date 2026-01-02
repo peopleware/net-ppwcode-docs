@@ -20,6 +20,10 @@ content:
       branches:
         - V/next
       start_path: docs
+    - url: https://github.com/peopleware/net-ppwcode-vernacular-semantics
+      branches:
+        - IV/next
+      start_path: docs
 ui:
   bundle:
     # for local tests: use a file reference
