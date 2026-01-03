@@ -15,3 +15,7 @@
 `PPWCode.Vernacular.Semantics.IV`::
 - Library with base classes and interfaces.
 - Support for .NET full framework and recent .NET SDKs.
+
+`PPWCode.Vernacular.Persistence.IV`::
+- Library with base classes and interfaces.
+- Support for .NET full framework and recent .NET SDKs.
