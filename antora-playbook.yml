@@ -36,6 +36,10 @@ content:
       branches:
         - III/next
       start_path: docs
+    - url: https://github.com/peopleware/net-ppwcode-api-core
+      branches:
+        - next
+      start_path: docs
 ui:
   bundle:
     # for local tests: use a file reference
