@@ -31,3 +31,7 @@
 `PPWCode.API.Core`::
 - Library with base classes and interfaces for `API` part of solution.
 - Support for recent .NET SDKs.
+
+`PPWCode.Server.Core`::
+- Library with base classes and interfaces for `Server` part of solution.
+- Support for recent .NET SDKs.
