@@ -56,6 +56,10 @@ content:
       branches:
         - next
       start_path: docs
+    - url: https://github.com/peopleware/net-ppwcode-host-core-hangfire
+      branches:
+        - next
+      start_path: docs
 ui:
   bundle:
     # for local tests: use a file reference

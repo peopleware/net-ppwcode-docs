@@ -47,3 +47,7 @@
 `PPWCode.Host.Core`::
 - Library with base classes and interfaces for the `Host` part of a solution.
 - Support for recent .NET SDKs.
+
+`PPWCode.Host.Core.Hangfire`::
+- Library with base classes and interfaces for a `Hangfire` specific `Host` part of a solution.
+- Support for recent .NET SDKs.
