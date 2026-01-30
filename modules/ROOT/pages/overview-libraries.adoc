@@ -43,3 +43,7 @@
 `PPWCode.Server.Core.NServiceBus`::
 - Library with base classes and interfaces for an `NServiceBus` specific `Server` part of a solution.
 - Support for recent .NET SDKs.
+
+`PPWCode.Host.Core`::
+- Library with base classes and interfaces for the `Host` part of a solution.
+- Support for recent .NET SDKs.
