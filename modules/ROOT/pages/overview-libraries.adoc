@@ -51,3 +51,7 @@
 `PPWCode.Host.Core.Hangfire`::
 - Library with base classes and interfaces for a `Hangfire` specific `Host` part of a solution.
 - Support for recent .NET SDKs.
+
+`PPWCode.Host.Core.WebApi`::
+- Library with base classes and interfaces for a `WebApi` specific `Host` part of a solution.
+- Support for recent .NET SDKs.
