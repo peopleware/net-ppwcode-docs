@@ -24,6 +24,10 @@ content:
       branches:
         - IV/next
       start_path: docs
+    - url: https://github.com/peopleware/net-ppwcode-vernacular-semantics
+      branches:
+        - V/next
+      start_path: docs
     - url: https://github.com/peopleware/net-ppwcode-vernacular-persistence
       branches:
         - IV/next
