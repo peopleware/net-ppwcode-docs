@@ -32,6 +32,10 @@ These libraries are all actively maintained.
 - Library with base classes and interfaces.
 - Support for .NET full framework and recent .NET SDKs.
 
+`PPWCode.Vernacular.Persistence.V`::
+- Library with base classes and interfaces.
+- Support for recent .NET SDKs.
+
 `PPWCode.Vernacular.NHibernate.III`::
 - Library with base classes and interfaces.
 - Support for .NET full framework and recent .NET SDKs.
