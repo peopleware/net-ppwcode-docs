@@ -36,6 +36,10 @@ These libraries are all actively maintained.
 - Library with base classes and interfaces.
 - Support for .NET full framework and recent .NET SDKs.
 
+`PPWCode.Util.DI.I`::
+- Library with helpers.
+- Support for recent .NET SDKs.
+
 `PPWCode.Util.Validation.III`::
 - Library with base classes and interfaces.
 - Support for .NET full framework and recent .NET SDKs.
