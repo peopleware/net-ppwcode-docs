@@ -40,6 +40,10 @@ These libraries are all actively maintained.
 - Library with helpers.
 - Support for recent .NET SDKs.
 
+`PPWCode.Util.Collection.I`::
+- Library with helpers.
+- Support for recent .NET SDKs.
+
 `PPWCode.Util.DI.I`::
 - Library with helpers.
 - Support for recent .NET SDKs.

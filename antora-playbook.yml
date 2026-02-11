@@ -44,6 +44,10 @@ content:
       branches:
         - I/next
       start_path: docs
+    - url: https://github.com/peopleware/net-ppwcode-util-collection
+      branches:
+        - I/next
+      start_path: docs
     - url: https://github.com/peopleware/net-ppwcode-util-di
       branches:
         - I/next
