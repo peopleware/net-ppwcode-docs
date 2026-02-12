@@ -60,6 +60,10 @@ These libraries are all actively maintained.
 - Library with base classes and interfaces.
 - Support for .NET full framework and recent .NET SDKs.
 
+`PPWCode.Util.Validation.IV`::
+- Library with base classes and interfaces.
+- Support for recent .NET SDKs.
+
 == Hosts
 
 These libraries are used as the base for the projects within PPWCode .NET solutions.  The solutions are often initially created using a template.  By moving code out of the template and into a library, we create a simpler upgrade path: it is easier to upgrade referenced libraries than it is to adapt an existing solution to a new template.
