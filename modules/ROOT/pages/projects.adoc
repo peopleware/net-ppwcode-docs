@@ -110,6 +110,10 @@ These libraries are all actively maintained.
 - Library with base classes and interfaces for a `WebApi` specific `Host` part of a solution.
 - Support for recent .NET SDKs.
 
+`PPWCode.AspNetCore.API.I`::
+- Library with base classes and interfaces for the `API` part of a REST API solution.
+- Support for recent .NET SDKs.
+
 // == Legacy
 //
 // These libraries are older generations of PPWCode .NET libraries.  They are no longer _actively_ maintained, but we do update them upon request.
