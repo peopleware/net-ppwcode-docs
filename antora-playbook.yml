@@ -40,6 +40,10 @@ content:
       branches:
         - III/next
       start_path: docs
+    - url: https://github.com/peopleware/net-ppwcode-vernacular-entityframeworkcore
+      branches:
+        - I/next
+      start_path: docs
     - url: https://github.com/peopleware/net-ppwcode-vernacular-requestcontext
       branches:
         - I/next
