@@ -118,6 +118,10 @@ These libraries are all actively maintained.
 - Library with base classes and interfaces for the `Server` part of a REST API solution.
 - Support for recent .NET SDKs.
 
+`PPWCode.AspNetCore.Host.I`::
+- Library with base classes and interfaces for the `Host` part of a REST API solution.
+- Support for recent .NET SDKs.
+
 // == Legacy
 //
 // These libraries are older generations of PPWCode .NET libraries.  They are no longer _actively_ maintained, but we do update them upon request.
