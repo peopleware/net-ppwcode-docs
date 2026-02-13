@@ -44,6 +44,10 @@ content:
       branches:
         - I/next
       start_path: docs
+    - url: https://github.com/peopleware/net-ppwcode-vernacular-historyevent
+      branches:
+        - I/next
+      start_path: docs
     - url: https://github.com/peopleware/net-ppwcode-util-validation
       branches:
         - III/next
