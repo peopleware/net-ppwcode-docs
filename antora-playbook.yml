@@ -48,6 +48,10 @@ content:
       branches:
         - I/next
       start_path: docs
+    - url: https://github.com/peopleware/net-ppwcode-vernacular-quartz
+      branches:
+        - I/next
+      start_path: docs
     - url: https://github.com/peopleware/net-ppwcode-vernacular-requestcontext
       branches:
         - I/next
